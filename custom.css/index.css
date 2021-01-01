@@ -1,0 +1,112 @@
+.logo {
+    background-image: url(Image/logo.png);
+    height: 105%;
+    background-repeat: no-repeat;
+}
+
+.list {
+    padding-top: 70px;
+    text-align: center;
+    font-size: 30px;
+    font-family: emoji;
+    font-weight: bold;
+    font-weight: 500;
+}
+
+.listservices {
+    display: inline-block;
+}
+
+.services {
+    color: #a67537;
+    text-decoration: none;
+}
+
+.services:hover {
+    border-bottom: 2px solid;
+    border-color: #a67537;
+    transition: 0.2s;
+}
+
+a:hover {
+    color: #a67537 !important;
+}
+
+.listmargin {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.listfor2pg {
+    padding-top: 15px;
+    font-size: 20px;
+    font-family: emoji;
+    font-weight: bold;
+    font-weight: 500;
+}
+
+.listmarginfr2pg {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.services1 {
+    color: #a67537;
+    text-decoration: none;
+    overflow: hidden;
+    border-bottom: 2px solid;
+    border-color: #a67537;
+}
+
+.services1:hover {
+    color: #a67537;
+    padding: 5px;
+    box-shadow: 1px 1px 3px 1px #a67537;
+    overflow: hidden;
+}
+
+.amimg {
+    padding: 0px;
+    border-radius: 5px;
+    width: "100%";
+    height: "250px";
+}
+
+.head1 {
+    font-size: 35px;
+    font-family: emoji;
+    font-weight: bold;
+    /* font-weight: 500; */
+    padding-top: 25px;
+    color: #a67537;
+}
+
+.amicol {
+    border: 1px solid;
+    text-align: center;
+    box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, .25);
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.amipara {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 35px;
+}
+
+.amispan {
+    font-size: 20px;
+    font-family: emoji;
+    font-weight: 400;
+}
+
+.amiing {
+    margin: auto;
+    margin-top: 15px;
+}
+
+.servicesloc {
+    color: #a67537;
+    text-decoration: none;
+}
